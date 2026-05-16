@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Winda Heri Santoso**.<br>
 
-Saya seorang **Web Programmer** di [Lumut](https://www.lumut.id/).<br>
+Saya seorang **Fullstack Web Programmer**<br>
 
 Saya juga memiliki sertifikat [Belajar Dasar Pemrograman Javascript](https://www.dicoding.com/certificates/N9ZOM57YDPG5)  sejak 2024 dan [Belajar Dasar Structured Query Language](https://www.dicoding.com/certificates/72ZD8Y309ZYW) sejak 2023 .<br>
 
